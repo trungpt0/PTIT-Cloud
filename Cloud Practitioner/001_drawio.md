@@ -1,1 +1,0 @@
-# Cách vẽ sơ hệ hệ thống AWS bằng Drawio
